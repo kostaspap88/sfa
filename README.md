@@ -1,5 +1,5 @@
 # SFA aka CFA
-Statistical Fault Analysis
+Statistical Fault Analysis on the 10th round of AES
 
 Formulas for the computation of statistical fault analysis (with known ciphertext only)
 
