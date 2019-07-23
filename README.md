@@ -1,4 +1,4 @@
-# sfa
+# SFA aka CFA
 Statistical Fault Analysis
 
 Formulas for the computation of statistical fault analysis (with known ciphertext only)
